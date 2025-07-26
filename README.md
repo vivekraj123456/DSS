@@ -3,7 +3,7 @@
 Step 1: Clone the repo
 
 ```commandline
-git clone https://github.com/rahulmandal0207/DSS_backend.git
+https://github.com/vivekraj123456/DSS.git
 ```
 
 Step 2: Create a new branch __[ important ]__
